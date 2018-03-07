@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing If and Else instructions", "Testing If and Else instructions\Testing If and Else instructions.csproj", "{FDA61291-5FA5-407A-BCC2-B8D452610681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA61291-5FA5-407A-BCC2-B8D452610681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA61291-5FA5-407A-BCC2-B8D452610681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA61291-5FA5-407A-BCC2-B8D452610681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA61291-5FA5-407A-BCC2-B8D452610681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4701B8D6-D7E0-47AB-8754-52BF80B9EA9E}
+	EndGlobalSection
+EndGlobal
